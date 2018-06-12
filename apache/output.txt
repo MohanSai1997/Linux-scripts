@@ -1,0 +1,23 @@
+[?1049h[1;44r(B[m[4l[?7h[?1h=[39;49m[39;49m[315m[40m[H[2J[37m[40m[J(B[m[39;49m[315m[40m[42d(B[0;1m[33m[44mLooking up 10.0.2.15 first[K(B[m[39;49m[315m[40m(B[0;1m[33m[44mGetting http://10.0.2.15/[K(B[m[39;49m[315m[40m(B[0;1m[33m[44mLooking up 10.0.2.15[K(B[m[39;49m[315m[40m(B[0;1m[33m[44mMaking HTTP connection to 10.0.2.15(B[m[39;49m[315m[40m(B[0;1m[33m[44mSending HTTP request.[K(B[m[39;49m[315m[40m(B[0;1m[33m[44mHTTP request sent; waiting for response.(B[m[39;49m[315m[40m[5G(B[0;1m[33m[44m/1.1 200 OK[K(B[m[39;49m[315m[40m(B[0;1m[33m[44mData transfer complete(B[m[39;49m[315m[40m[2;4H[37m[40mhelloowowowow[41d(B[m[39;49m[315m[40m
+
+[3G[37m[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list (B[m[39;49m[315m[40m[42d(B[0;1m[33m[44mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '<-' to go back.(B[m[39;49m[315m[40m
+
+[42d
+
+[42d
+
+[42d
+
+[42d
+
+[42d
+
+[42d
+
+[42d
+
+[37m[40m[J(B[m[39;49m[315m[40m[39;49m[K[44;1H[?1049l[?1l>
+
+Exiting via interrupt: 2
+
